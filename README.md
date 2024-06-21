@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a final year Computer Science student with a p
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Dart, c#
-- **Tools:** Git, Android Studio, Unity Editor, Flutter, Unity, React, Selenium, Scrapy, Streamlit, Grafana, Plotly, Dash.
+- **Languages:** Python, JavaScript, Dart, C#
+- **Tools:** Android Studio, Flutter, Unity, Selenium, Scrapy, Streamlit, Grafana, Plotly, Dash.
 
 ## 🚀 Projects
 
@@ -21,6 +21,7 @@ Feel free to explore my repositories for more projects and contributions!
 
 - **Mobile App Development:** Proficient in Flutter for cross-platform mobile app development.
 - **Data Science:** Interested in leveraging data analysis to drive insights and decision-making processes.
+- **Backend Development:** Learnt to manage and develop api endpoints for systems.
 
 ## 📫 Let's Connect
 
