@@ -1,11 +1,11 @@
 # Hello, I'm Muneeb 👋
 
-Welcome to my GitHub profile! I'm a final year Computer Science student with a passion for building innovative software solutions. Here you'll find a collection of my projects, ranging from mobile app development to web applications and data analysis.
+Welcome to my GitHub profile! I'm a Computer Science student with a passion for building innovative software solutions. Here you'll find a collection of my projects, ranging from mobile app development to web applications and data analysis.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Dart, C#
-- **Tools:** Android Studio, Flutter, Unity, Selenium, Scrapy, Streamlit, Grafana, Plotly, Dash.
+- **Languages:** Python, Dart, C#
+- **Tools:** Android Studio, Flutter, Unity, Django, Selenium, Scrapy, Grafana, Dash.
 
 ## 🚀 Projects
 
@@ -21,7 +21,7 @@ Feel free to explore my repositories for more projects and contributions!
 
 - **Mobile App Development:** Proficient in Flutter for cross-platform mobile app development.
 - **Data Science:** Interested in leveraging data analysis to drive insights and decision-making processes.
-- **Backend Development:** Learnt to manage and develop api endpoints for systems.
+- **Backend Development:** Learnt to manage and develop api endpoints for systems using Django.
 
 ## 📫 Let's Connect
 
