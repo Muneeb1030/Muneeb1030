@@ -1,19 +1,26 @@
-# Hello, I'm Muneeb 👋
-## Computer Science Student | Data Science & Innovative Software Solutions Enthusiast
+# Computer Science Student | Data Science & Innovative Software Solutions Enthusiast
 
-Welcome to my portfolio! I'm Muneeb, a passionate Computer Science student with a keen interest in Data Science and cutting-edge software development.
-
-
-In my journey through Computer Science, I've delved deep into the realm of data science, mastering tools like Grafana, Streamlit, & Dash for visualization. I'm particularly skilled in utilizing PCA (Principal Component Analysis) & t-SNE for dimension reduction, enabling efficient analysis and interpretation of complex datasets.
+Welcome to my portfolio! I'm **Muneeb** 👋, a passionate Computer Science student with a keen interest in Data Science and cutting-edge software development.
 
 
-Complementing my data expertise, I've ventured into the dynamic world of innovative software solutions. I'm constantly exploring new technologies and frameworks, pushing the boundaries of what's possible in software architecture. My focus lies in developing scalable systems and implementing microservices architectures, bridging the gap between data-driven insights and robust, user-centric applications.
-Driven by a relentless pursuit of knowledge and innovation, I constantly seek to expand my horizons and push the boundaries of what's possible. Whether it's uncovering insights from complex datasets or architecting efficient, scalable systems, I'm always eager to tackle new challenges and turn ideas into reality.
+In my journey through Computer Science, I've delved deep into the realm ofDdata Science, mastering tools like **Grafana, Streamlit, & Dash** for visualization. I'm particularly skilled in utilizing **PCA (Principal Component Analysis) & t-SNE** for dimension reduction, enabling efficient analysis and interpretation of complex datasets.
+
+
+Complementing my data expertise, I've ventured into the dynamic world of innovative software solutions. I'm constantly exploring new technologies and frameworks like **Django, FastAPI, & Flask**, pushing the boundaries of what's possible in software architecture. My focus lies in developing scalable systems and implementing **microservices architectures**, bridging the gap between data-driven insights and robust, user-centric applications.
+
+
+Driven by a relentless **pursuit of knowledge and innovation**, I constantly seek to **expand** my horizons and **push** the boundaries of what's possible. Whether it's uncovering insights from complex datasets or architecting efficient, scalable systems, I'm always **eager to tackle** new challenges and **turn ideas into reality**.
+
+
+Explore my portfolio to discover my projects, delve into my expertise, and join me on my journey to explore the endless possibilities of technology.
+
+
+**Let's build** something amazing together!
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, Dart, C#
-- **Tools:** Flutter, Unity, Django, FastAPI, Flask, Selenium, Scrapy, Grafana, Dash.
+- **Languages:** Python, Dart, C#, C++
+- **Tools:** Django, FastAPI, Flask, Selenium, Scrapy, Unity, Flutter, Grafana, Dash.
 
 ## 🚀 Projects
 
