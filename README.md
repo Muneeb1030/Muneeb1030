@@ -3,7 +3,7 @@
 Welcome to my portfolio! I'm **Muneeb** 👋, a passionate Computer Science student with a keen interest in Data Science and cutting-edge software development.
 
 
-In my journey through Computer Science, I've delved deep into the realm ofDdata Science, mastering tools like **Grafana, Streamlit, & Dash** for visualization. I'm particularly skilled in utilizing **PCA (Principal Component Analysis) & t-SNE** for dimension reduction, enabling efficient analysis and interpretation of complex datasets.
+In my journey through Computer Science, I've delved deep into the realm of Data Science, mastering tools like **Grafana, Streamlit, & Dash** for visualization. I'm particularly skilled in utilizing **PCA (Principal Component Analysis) & t-SNE** for dimension reduction, enabling efficient analysis and interpretation of complex datasets.
 
 
 Complementing my data expertise, I've ventured into the dynamic world of innovative software solutions. I'm constantly exploring new technologies and frameworks like **Django, FastAPI, & Flask**, pushing the boundaries of what's possible in software architecture. My focus lies in developing scalable systems and implementing **microservices architectures**, bridging the gap between data-driven insights and robust, user-centric applications.
