@@ -34,7 +34,6 @@ Feel free to explore my repositories for more projects and contributions!
 
 ## 💼 Professional Interests
 
-- **Mobile App Development:** Proficient in Flutter for cross-platform mobile app development.
 - **Data Science:** Interested in leveraging data analysis to drive insights and decision-making processes.
 - **Backend Development:** Learnt to manage and develop api endpoints for systems using Django.
 
