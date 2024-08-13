@@ -1,4 +1,4 @@
-# Computer Science Student | Data Science & Innovative Software Solutions Enthusiast
+# Computer Science Student | Data Scientist & Backend Developer
 
 Welcome to my portfolio! I'm **Muneeb** 👋, a passionate Computer Science student with a keen interest in Data Science and cutting-edge software development.
 
@@ -19,15 +19,14 @@ Explore my portfolio to discover my projects, delve into my expertise, and join 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, Dart, C#, C++
-- **Tools:** Django, FastAPI, Flask, Selenium, Scrapy, Unity, Flutter, Grafana, Dash.
+- **Languages:** Python, C#, C++
+- **Tools:** Django, FastAPI, Flask, Scrapy.
 
 ## 🚀 Projects
 
 Here are some highlights of my recent projects:
 
 - **[Mastodon Scrapper](https://github.com/Muneeb1030/WebScrapper_Mastodon):** The Mastodon Social Platform Scraper is a Python-based web scraping tool designed to explore and extract valuable data from the Mastodon social platform. Leveraging the Scrapy framework for structured data extraction and Selenium for dynamic content handling, this project provides a comprehensive solution for harvesting information from Mastodon's explore page.
-- **[Expense Manager APP](https://github.com/Muneeb1030/Expense-Manager-Flutter):** Manage your weekly expenses effortlessly with our intuitive Expense Manager App. Track, add, and delete expenses with ease using our user-friendly interface. Stay on top of your finances with simplicity and efficiency. 
 - **[Traffic and POIs Dashboard](https://lahoretraffichotspotsandpois.streamlit.app/):** In this Project, I will be creating a dashbpard for the provided dataset of Traffic Hotspots and POIs of Lahore by my Professor using streamlit. In this will= be discussing Streamlit and The Provided Dataset to extract insights for useful purposes.
 
 Feel free to explore my repositories for more projects and contributions!
